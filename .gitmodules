@@ -1,0 +1,3 @@
+[submodule "themes/learner"]
+	path = themes/learner
+	url = https://github.com/shazic/learner.git
